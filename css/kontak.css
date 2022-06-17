@@ -1,0 +1,16 @@
+.info-kontak {
+    margin-top: 100px;
+}
+.img-fluid {
+    width: 100%;
+    border-radius: 12px;
+}
+.info-kontak h3 {
+    margin-top: 30px;
+}
+.judul p {
+    text-align: justify;
+}
+.daftar {
+    margin-top: 30px;
+}
